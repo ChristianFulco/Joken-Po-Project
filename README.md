@@ -9,4 +9,4 @@
 
 <br>
 <br>
-<img src="https://github.com/ChristianFulco/JokenPo-Project/blob/main/Projeto%20Fun%C3%A7%C3%A3o/assets/JokenP%C3%B4-Project.png">
+<img src="assets/JokenPô-Project.png" />
