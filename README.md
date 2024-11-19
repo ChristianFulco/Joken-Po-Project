@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <h3> 💻 About Project:</h3>
+<a href="https://freezejokenpo.netlify.app"/>Link project</a>
 <p><b> Um projeto desenvolvido que se trata de umm jogo de JokenPo com interação real entre homen e máquina, feito com HTML,CSS e JAVASCRIPT </b></p>
 
 <br>
